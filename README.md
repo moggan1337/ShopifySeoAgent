@@ -13,15 +13,7 @@
 
 ## About
 
-ShopifySeoAgent is an autonomous AI agent that handles all aspects of SEO for Shopify stores. From keyword research to content generation to link building, the agent works continuously to improve your store's search visibility without manual intervention.
-
-**Key Benefits:**
-- 📝 **10x Content Output** — Generate 2000-4000 word articles in minutes
-- 🔍 **Keyword Intelligence** — Deep competitor analysis and gap discovery
-- 🔗 **Automated Link Building** — AI-powered outreach and link acquisition
-- 📈 **Daily Rank Tracking** — Monitor keyword positions automatically
-- 🔔 **Algorithm Alerts** — Instant notifications for Google updates
-- 🎯 **ROI Focused** — SEO that drives traffic and conversions
+ShopifySeoAgent is an autonomous AI agent that handles all aspects of SEO for Shopify stores. From keyword research to content generation to link building, the agent works continuously to improve your store's search visibility without manual intervention. Built for Shopify merchants and marketers who want to automate SEO workflows, generate SEO-optimized content at scale, and monitor rankings without dedicated SEO expertise.
 
 ## ✨ Features
 
